@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1022352310134",
+    "firebase_url": "https://egeszsegquiz.firebaseio.com",
+    "project_id": "egeszsegquiz",
+    "storage_bucket": "egeszsegquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022352310134:android:03027d31080fcac1",
+        "android_client_info": {
+          "package_name": "hu.vajda.egeszseg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022352310134-5fj9hf1ev3caladt387vjevtgff5b1gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.vajda.egeszseg",
+            "certificate_hash": "b9720abcf4e71593733d07c75b5436fde5634af3"
+          }
+        },
+        {
+          "client_id": "1022352310134-443icb0cj82go31iq2fjjo16uo2h4227.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyFP0H0povb_EOSZSdlFihf4aQ0AzXjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022352310134-443icb0cj82go31iq2fjjo16uo2h4227.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

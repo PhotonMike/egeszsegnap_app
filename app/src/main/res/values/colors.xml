@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BF2400</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="background">#ffffff</color>
+
+    <color name="ansSelected">#00BF64</color>
+    <color name="ansDeselected">#808080</color>
+
+    <color name="overCard">@color/colorPrimary</color>
+
+    <color name="correct">@color/ansSelected</color>
+    <color name="incorrect">@color/colorPrimary</color>
+</resources>

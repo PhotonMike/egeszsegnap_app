@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_left"
+        android:icon="@drawable/arrow_left"
+        android:title="@string/title_left" />
+
+    <item
+        android:id="@+id/navigation_back"
+        android:icon="@drawable/dashboard"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_right"
+        android:icon="@drawable/arrow_right"
+        android:title="@string/title_right" />
+
+</menu>

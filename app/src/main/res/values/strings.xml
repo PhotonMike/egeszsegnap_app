@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Egészség quiz</string>
+    <string name="loading">Betöltés folyamatban&#8230;</string>
+    <string name="name">Név</string>
+    <string name="title_activity_question">Kérdés</string>
+    <string name="prev_q">Előző kérdés</string>
+    <string name="nxt_q">Következő kérdés</string>
+    <string name="WelcTxt">%1$d kérdés van</string>
+    <string name="title_activity_quiz">Kérdés</string>
+    <string name="badname">Írj be egy nevet!</string>
+    <string name="saved">Válaszok mentése&#8230;</string>
+
+
+    <string name="title_left">Előző kérdés</string>
+    <string name="title_dashboard">Összes kérdés</string>
+    <string name="title_right">Következő kérdés</string>
+    <string name="doubleBack">Nyomd meg mégegyszer a vissza gombot a kilépéshez</string>
+
+    <string name="title_activity_overview">Összes kérdés</string>
+    <string name="start">Start</string>
+    <string name="upload">Feltöltés</string>
+
+    <string name="finish">Vége</string>
+    <string name="done">Végigértél minden feladaton</string>
+    <string name="correctAns">A %1$d kérdésből %2$d helyes választ adtál.\nTeljesítményed %3$.2f%%</string>
+    <string name="back">Vissza</string>
+</resources>
